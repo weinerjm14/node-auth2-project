@@ -1,4 +1,4 @@
-const hashpw = '$2y$14$.n/.NSH4Ax12ZRwmK.meKOFW1aJZSoOzBu9.mSZpVjyVu5h9qOve.';
+const hashpw = '$2y$14$2IVaGIT/b6pV5/5caGZK.uYxVJDA8FdcyMBJItPIIMOr/XzWGJ1Lm';
 exports.seed = function (knex) {
   return knex('users').then(function () {
     // Inserts seed entries
